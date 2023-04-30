@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666188504470",
+    "project_id": "spobro-2640c",
+    "storage_bucket": "spobro-2640c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666188504470:android:bc1024e97f926ecaae91b7",
+        "android_client_info": {
+          "package_name": "com.example.sponsorship_broker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666188504470-brstf5mttljdffjs0jkfror161ig930g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdF901_LUGxPTf-KW3j2-pcg99JCAtatk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666188504470-brstf5mttljdffjs0jkfror161ig930g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
